@@ -1,0 +1,11 @@
+"""
+ Programmer : Brian Fichter Jr 
+ Programmer : program to print customary "Hello world"
+ Date : 08/27/2021
+ Last Changed : 08/27/2021
+ Python version : 3
+"""
+
+print("Hello world")
+
+
